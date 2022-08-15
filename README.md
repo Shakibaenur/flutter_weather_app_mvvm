@@ -1,16 +1,12 @@
 # flutter_weather_app_mvvm
 
-A weather flutter app following MVVM architecture .
+A weather flutter app following MVVM architecture. This is a small Flutter project to begin with.
 
-## Getting Started
+- [For statemanagement I have used StatefulWidget](https://api.flutter.dev/flutter/widgets/StatefulWidget-class.html)
+- [For network calls I used the popular Flutter package Dio](https://pub.dev/packages/dio)
+- [For weather forecast App using Open Weather Map API](https://openweathermap.org/api)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h1> Screenshot</h1>
+<div>
+    <img src="/images/screenshot1.png" width="200px" height="450px"</img> 
+</div>
